@@ -1,0 +1,9 @@
+---
+Nome: Gustavo Rodrigues Azevedo Lima
+RA: 82515519
+Curso: Engenharia de Software
+Semestre: 3º
+Bairro: Vila Prudente
+Se trabalha: Não trabalho
+Objetivo: Atuar na área como Front-end inicialmente, ingressando em bigtechs
+---
