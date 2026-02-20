@@ -11,9 +11,19 @@ Objetivo: Atuar na área como Front-end inicialmente, ingressando em bigtechs
 ---
 Nome: Natalia da Silva Melo Frreira
 RA: 825134003
-Curso: Engenharia de Software
+Curso: EnServiceNowgenharia de Software
 Semestre: 3º
 Bairro: São Miguel Paulista
 Se trabalha: Estágio
-Objetivo: Formar uma carreira sólida no ServiceNow
+Objetivo: Formar uma carreira sólida no 
+---
+
+---
+Nome: João Victor da Silva Gomes
+RA: 825123590
+Curso: Engenharia de Software
+Semestre: 3
+Bairro: Vila Curuça
+Se trabalha: Sou desenvolvedor Servicenow junior
+Objetivo: Atuar como devops e remotamente para uma big tech do exterior (gringa).
 ---
