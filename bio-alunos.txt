@@ -7,13 +7,3 @@ Bairro: Vila Prudente
 Se trabalha: Não trabalho
 Objetivo: Atuar na área como Front-end inicialmente, ingressando em bigtechs
 ---
-
----
-Nome: Natalia da Silva Melo Frreira
-RA: 825134003
-Curso: Engenharia de Software
-Semestre: 3º
-Bairro: São Miguel Paulista
-Se trabalha: Estágio
-Objetivo: Formar uma carreira sólida no ServiceNow
----
