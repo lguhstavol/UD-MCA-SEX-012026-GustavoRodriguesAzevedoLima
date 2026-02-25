@@ -15,7 +15,7 @@ Curso: EnServiceNowgenharia de Software
 Semestre: 3º
 Bairro: São Miguel Paulista
 Se trabalha: Estágio
-Objetivo: Formar uma carreira sólida no 
+Objetivo: Formar uma carreira sólida no ServiceNow
 ---
 Nome: João Victor da Silva Gomes
 RA: 825123590
@@ -24,3 +24,4 @@ Semestre: 3
 Bairro: Vila Curuça
 Se trabalha: Sou desenvolvedor Servicenow junior
 Objetivo: Atuar como devops e remotamente para uma big tech do exterior (gringa).
+---
