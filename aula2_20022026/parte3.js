@@ -36,7 +36,7 @@ for (let i = 0; i < produtos.length; i++) {
 console.log(totalEstoque);
 
 //F.
-console.log("------------------Resposta F--------------------");
+console.log("------------------Resposta F---------------------");
 let maiorEstoque = produtos[0];
 
 for (let i = 1; i < produtos.length; i++) {
