@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(235, 224, 209);
+    font-family: Arial, Verdana;
+    margin: 0;
+}
+
+header {
+    background-color: #6d7e47;
+    color: rgb(235, 224, 209);
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
